@@ -1,0 +1,10 @@
+.alien-image-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .alien-image {
+    width: 30px; /* Adjust the size as needed */
+    height: auto;
+    margin-right: 10px; /* Adjust the spacing as needed */
+  }
